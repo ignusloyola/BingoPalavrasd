@@ -112,6 +112,7 @@ public class Principal extends javax.swing.JFrame {
         Descricao.setVerticalAlignment(javax.swing.SwingConstants.TOP);
         Descricao.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
+        jLabel1.setFont(new java.awt.Font("Courier New", 1, 14)); // NOI18N
         jLabel1.setText("LEVEL 01");
 
         javax.swing.GroupLayout uJPanelImagem3Layout = new javax.swing.GroupLayout(uJPanelImagem3);
